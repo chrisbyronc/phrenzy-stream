@@ -1,0 +1,23 @@
+{
+  "name": "phrenzy-stream",
+  "version": "0.1.0",
+  "description": "phish streaming server",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesunabove/phrenzy-stream.git"
+  },
+  "author": "Chris Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesunabove/phrenzy-stream/issues"
+  },
+  "homepage": "https://github.com/thesunabove/phrenzy-stream#readme"
+}
